@@ -1,0 +1,6 @@
+{
+  "name": "ClaimGenius - Intelligent Expense Claim Automation",
+  "description": "Automated receipt and expense claim extraction using Google AI Studio Gemini models with direct corporate Excel datasheet generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
